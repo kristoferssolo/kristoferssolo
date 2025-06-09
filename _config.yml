@@ -1,0 +1,8 @@
+title: Development Statistics
+description: Development Statistics
+logo: https://avatars.githubusercontent.com/u/67258855
+show_downloads: false
+google_analytics: G-VB57Z0P5HL
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
