@@ -4,7 +4,7 @@ on:
     types: [test_trigger]
   workflow_dispatch:
   schedule:
-    - cron: '0 5 * * *'
+    - cron: '0 0 * * *'
 jobs:
   github-metrics:
     name: Update Readme with Metrics
