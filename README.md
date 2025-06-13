@@ -9,13 +9,18 @@
   <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/latvia.md"><img height="20" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkristoferssolo%2Fkristoferssolo%2Fmain%2Fassets%2Fgithub-followed-ranking.json&query=key&prefix=%23&label=followed%20rank&color=brightgreen&logo=github" /></a>
 </p>
 
-### Recent Activities
-
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kristoferssolo&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=rose_pine" /></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=kristoferssolo&theme=rose_pine&hide_border=true" /></a>
+  <a href="https://fosstodon.org/@kristofers_solo"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109774143477944719?domain=fosstodon.org&style=flat&logo=mastodon"></a>
 </p>
 
+<p align="left">
+  <a href="https://dev.to/kristoferssolo" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="yutkat" height="30" width="30" /></a>
+  <a href="https://fosstodon.org/@kristofers_solo" target="blank"><img src="https://cdn.fosstodon.org/site_uploads/files/000/000/007/32/91cda647d1c18689.png" alt="yutkat" height="30" width="30" /></a>
+</p>
+
+### Recent Activities
+
+[![](https://github-readme-stats.vercel.app/api?username=kristoferssolo&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kristoferssolo&theme=rose_pine)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-readme-activity-graph.vercel.app/graph?username=kristoferssolo&theme=rogue&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
