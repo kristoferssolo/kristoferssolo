@@ -65,11 +65,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kristoferssolo&theme=darkhub&column=5&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- <img height="150" src="https://github.com/kristoferssolo/kristoferssolo/blob/master/images/stat.svg" alt="Alternative Text"/> -->
-
-### This page status
-
-<a href="https://widgetbite.com" align="left">
-  <img alt="Visitor Stats" src="https://widgetbite.com/stats/kristoferssolo"/>  
-</a>
-
-[![Metrics](https://github.com/kristoferssolo/kristoferssolo/actions/workflows/main.yml/badge.svg)](https://github.com/kristoferssolo/kristoferssolo/actions/workflows/main.yml)
