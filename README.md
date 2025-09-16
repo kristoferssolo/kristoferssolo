@@ -1,11 +1,10 @@
 # 💫 About Me
 
 [![kristoferssolo](https://komarev.com/ghpvc/?username=kristoferssolo)](https://github.com/kristoferssolo)
-[![follow](https://img.shields.io/github/followers/kristoferssolo?label=follow&logo=github&style=flat)](https://github.com/kristoferssolo)
+[![follows](https://img.shields.io/github/followers/kristoferssolo?label=follow&logo=github&style=flat)](https://github.com/kristoferssolo)
 [![stars](https://img.shields.io/github/stars/kristoferssolo?logo=github&style=flat)](https://github.com/kristoferssolo)
 [![star ranking](https://img.shields.io/endpoint?label=star%20ranking&logo=github&style=flat&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Fkristoferssolo%2Fshields)](https://gitstar-ranking.com/kristoferssolo)
-[![user badge](https://user-badge.committers.top/latvia/kristoferssolo.svg)](https://user-badge.committers.top/latvia/kristoferssolo)
-[![followed rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkristoferssolo%2Fkristoferssolo%2Fmain%2Fassets%2Fgithub-followed-ranking.json&query=key&prefix=%23&label=followed%20rank&color=brightgreen&logo=github)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/latvia.md)
+[![commiters rank](https://user-badge.committers.top/latvia/kristoferssolo.svg)](https://user-badge.committers.top/latvia/kristoferssolo)
 
 Hello there!
 Computer-science student by day and software engineer by night — building backend services and developer tools; learning Rust and systems programming.
