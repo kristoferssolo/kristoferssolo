@@ -1,37 +1,73 @@
-# 💫 About Me
+# Kristiāns Francis Cagulis
 
-[![kristoferssolo](https://komarev.com/ghpvc/?username=kristoferssolo)](https://github.com/kristoferssolo)
-[![follows](https://img.shields.io/github/followers/kristoferssolo?label=follow&logo=github&style=flat)](https://github.com/kristoferssolo)
-[![stars](https://img.shields.io/github/stars/kristoferssolo?logo=github&style=flat)](https://github.com/kristoferssolo)
-[![star ranking](https://img.shields.io/endpoint?label=star%20ranking&logo=github&style=flat&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Fkristoferssolo%2Fshields)](https://gitstar-ranking.com/kristoferssolo)
-[![commiters rank](https://user-badge.committers.top/latvia/kristoferssolo.svg)](https://user-badge.committers.top/latvia/kristoferssolo)
+[![Profile views](https://komarev.com/ghpvc/?username=kristoferssolo)](https://github.com/kristoferssolo)
+[![GitHub followers](https://img.shields.io/github/followers/kristoferssolo?label=followers&logo=github&style=flat)](https://github.com/kristoferssolo?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/kristoferssolo?label=stars&logo=github&style=flat)](https://github.com/kristoferssolo)
+[![Star ranking](https://img.shields.io/endpoint?label=star%20ranking&logo=github&style=flat&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Fkristoferssolo%2Fshields)](https://gitstar-ranking.com/kristoferssolo)
+[![Committers rank](https://user-badge.committers.top/latvia/kristoferssolo.svg)](https://user-badge.committers.top/latvia/kristoferssolo)
 
-Hello there!
-Computer-science student by day and software engineer by night — building backend services and developer tools; learning Rust and systems programming.
+Graduate software engineer interested in **Linux**, **open-source software**,
+**library development**, **developer tooling**, and **backend systems**.
 
-## 🌐 Socials
+I primarily work with **Rust** and **Python**. I enjoy turning
+project-specific functionality into focused libraries with clear APIs,
+useful documentation, and maintainable implementations.
 
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://fosstodon.org/@kristofers_solo)
+I hold a Bachelor of Natural Sciences in Computer Science from the University
+of Latvia, specialising in software engineering.
 
-# 💻 Tech Stack
+## What I work on
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- Reusable Rust and Python libraries
+- Command-line and terminal-based applications
+- Backend services and APIs
+- Linux-oriented software
+- Performance testing and reproducible tooling
+- Technical documentation and developer workflows
 
-# 📊 GitHub Stats
+## Engineering interests
 
-![](https://github-readme-stats.vercel.app/api?username=kristoferssolo&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=kristoferssolo&theme=rose_pine&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kristoferssolo&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+I am particularly interested in:
 
-## 🏆 GitHub Trophies
+- library and package design;
+- clear and predictable APIs;
+- systems-oriented programming;
+- developer tools that integrate well with existing workflows;
+- maintainable open-source projects;
+- benchmarking and evidence-based performance analysis.
 
-![](https://github-profile-trophy.vercel.app/?username=kristoferssolo&theme=rose_pine&no-frame=false&no-bg=true&column=5&margin-w=10&margin-h=10)
+## Tools and technologies
 
----
-[![](https://visitcount.itsvg.in/api?id=kristoferssolo&icon=1&color=8)](https://visitcount.itsvg.in)
+**Languages**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+`Rust` `Python` `SQL` `Lua`
+
+**Libraries and frameworks**
+
+`Django` `Axum` `Bevy` `Ratatui` `Leptos`
+
+**Development environment**
+
+`Linux` `Git` `Docker` `Bash` `Typst` `Neovim`
+
+## Open source
+
+I publish and maintain projects on both GitHub and Codeberg.
+
+GitHub is mainly used for discoverability and collaboration, while some
+projects use Codeberg as their primary upstream repository.
+
+[![Codeberg](https://img.shields.io/badge/Codeberg-kristoferssolo-2185D0?logo=codeberg&logoColor=white)](https://codeberg.org/kristoferssolo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kristiāns_Cagulis-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristians-francis-cagulis/)
+[![Mastodon](https://img.shields.io/badge/Mastodon-@kristofers__solo-6364FF?logo=mastodon&logoColor=white)](https://fosstodon.org/@kristofers_solo)
+
+## Currently interested in
+
+I am open to graduate and junior software engineering opportunities involving:
+
+- Linux and open-source software;
+- Rust or Python development;
+- library and package development;
+- developer tooling;
+- backend and infrastructure engineering;
+- performance-oriented software.
