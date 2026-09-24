@@ -1,41 +1,93 @@
+<div align="center">
+
 # Kristofers Solo
 
-Software engineer working mainly with Rust and Python. I build libraries,
-developer tools, and backend systems, with a focus on clear APIs and useful
-documentation.
+**Software engineer · Rust / Python · Linux / Open Source**
 
-I hold a BSc in Computer Science from the University of Latvia, specialising
-in software engineering.
+I build Rust and Python libraries, developer tools, and backend services for
+Linux.
 
-## What I work on
+</div>
+
+---
+
+## About
+
+I hold a **BSc in Computer Science** from the
+**University of Latvia**, specialising in software engineering.
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+### What I build
 
 - Rust and Python libraries
-- Command-line tools and backend services
-- Linux software and performance testing
-- Documentation and developer workflows
+- CLI and TUI applications
+- Backend services and APIs
+- Developer tooling and automation
+- Linux-focused software
+- Benchmarks and performance tooling
 
-## Tools and technologies
+</td>
+<td valign="top" width="50%">
 
-**Languages**
+### What I care about
+
+- Clear, predictable APIs
+- Useful documentation
+- Open-source software
+- Good developer experience
+- Performance without unnecessary complexity
+- Tools that compose well with existing workflows
+
+</td>
+</tr>
+</table>
+
+## Stack
+
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td>
 
 `Rust` `Python` `SQL` `Lua`
 
-**Libraries and frameworks**
+</td>
+</tr>
 
-`Django` `Axum` `Bevy` `Ratatui` `Leptos`
+<tr>
+<td><strong>Frameworks</strong></td>
+<td>
 
-**Development environment**
+`Axum` `Django` `Leptos` `Bevy` `Ratatui`
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Environment</strong></td>
+<td>
 
 `Linux` `Git` `Docker` `Bash` `Typst` `Neovim`
 
-## Open source
+</td>
+</tr>
+</table>
 
-I maintain projects on [GitHub](https://github.com/kristoferssolo) and
-[Codeberg](https://codeberg.org/kristoferssolo). Find me on
-[LinkedIn](https://www.linkedin.com/in/kristians-francis-cagulis/) or
-[Mastodon](https://fosstodon.org/@kristofers_solo).
+## Currently
 
-## Currently interested in
+I'm interested in **graduate and junior software engineering roles** involving
+Rust or Python, particularly in:
 
-I am looking for graduate or junior roles in Rust or Python, open-source
-software, developer tools, or backend engineering.
+`Backend Engineering` · `Developer Tooling` · `Open Source`
+
+<div align="center">
+
+<sub>
+Linux user · Neovim enjoyer · occasional over-engineer of things that could
+probably have been a shell script
+</sub>
+
+</div>
